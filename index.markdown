@@ -4,3 +4,5 @@
 
 layout: home
 ---
+Проекти:
+- [Гизила.Блог ⚒](https://t.me/hyzyla_blog){:target="_blank"} -- персональний блог у Telegram про розробку і технології  
