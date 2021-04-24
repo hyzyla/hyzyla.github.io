@@ -8,8 +8,8 @@ layout: home
 - [Гизила.Блог ⚒](https://t.me/hyzyla_blog){:target="_blank"} -- персональний 
 блог у Telegram про розробку і технології.
 
-- [TComments](https://tcomments.ga/posts/62d32c5d-beb7-40ff-b5bc-21e4ba0d8163) -- 
-сервіс, що дозволяє 
+- [TComments](/projects/tcomments) --
+сервіс, що дозволяє
 додати кнопку "Коментарі" до будь-якого допису в Telegram каналі. Коментарі 
 можуть мати будь-яку глибину вкаденості.
 
