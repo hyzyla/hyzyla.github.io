@@ -5,7 +5,7 @@
 layout: home
 ---
 Проекти:
-- [Гизила.Блог ⚒](https://t.me/s/hyzyla_blog){:target="_blank"}{:target="_blank"} -- персональний
+- [Гизила.Блог ⚒](https://t.me/s/hyzyla_blog){:target="_blank"} -- персональний
 блог у Telegram про розробку і технології.
 
 - [TComments](/projects/tcomments) --
